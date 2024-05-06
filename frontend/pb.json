@@ -1,0 +1,49 @@
+{
+    "myBudget": [
+      {
+        "title": "Extras",
+        "budget": 50
+      },
+      {
+        "title": "Grocery-List",
+        "budget": 150
+      },
+      {
+        "title": "Rent",
+        "budget": 525
+      },
+      {
+        "title": "Accessories",
+        "budget": 34.98
+      },
+      {
+        "title": "Table",
+        "budget": 70
+      },
+      {
+        "title": "Walmart",
+        "budget": 200
+      },
+      {
+        "title": "Electricity",
+        "budget": 40
+      },
+      {
+        "title": "Water Bill",
+        "budget": 90
+      },
+      {
+        "title": "Trips",
+        "budget": 200
+      },
+      {
+        "title": "Outing",
+        "budget": 34.98
+      },
+      {
+        "title": "Movies",
+        "budget": 25
+      }
+    ]
+  }
+  

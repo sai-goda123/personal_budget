@@ -1,0 +1,16 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Node nightwatch.js -c test/testConfig/nightwatch.config.js -g e2eTest.js -e chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^119.0.1",
+    "nightwatch": "^2.6.23"
+  }
+}
